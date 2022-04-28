@@ -1,0 +1,50 @@
+{
+	"storyName": "do i know you",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"copycat",
+			"smreal",
+			[
+				255,
+				233,
+				115
+			]
+		],
+		[
+			"blazeborn",
+			"smreal",
+			[
+				255,
+				173,
+				115
+			]
+		],
+		[
+			"joignment",
+			"",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"smreal",
+		"sm251006",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

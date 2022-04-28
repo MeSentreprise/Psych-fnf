@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_benalireal.png"><SubTexture name="menu_benalireal idle0000" x="0" y="0" width="453" height="593" frameX="0" frameY="0" frameWidth="453" frameHeight="593" />
+</TextureAtlas>

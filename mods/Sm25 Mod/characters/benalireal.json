@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-91
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BenAliReal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BenAliReal left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BenAliReal down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BenAliReal right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BenAliReal up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BenAliReal",
+	"position": [
+		-280,
+		-530
+	],
+	"healthicon": "benalireal",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		115
+	],
+	"camera_position": [
+		-130,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="avatars.png"><SubTexture name="avatars sm down0000" x="1871" y="555" width="601" height="553" frameX="0" frameY="-124" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag down0000" x="0" y="574" width="634" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars sm down0001" x="1871" y="1108" width="601" height="551" frameX="0" frameY="-126" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag down0001" x="1237" y="0" width="634" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars idle0000" x="634" y="1684" width="589" height="549" frameX="-12" frameY="-128" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars idle0001" x="0" y="0" width="603" height="574" frameX="-11" frameY="-103" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars idle0002" x="1237" y="555" width="622" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars sm left0000" x="1824" y="1684" width="601" height="545" frameX="0" frameY="-132" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag right0000" x="634" y="574" width="600" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag right0001" x="0" y="1129" width="608" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag right0002" x="608" y="1129" width="634" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars sm right0000" x="2478" y="0" width="587" height="545" frameX="-14" frameY="-132" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars sm right0001" x="1223" y="1684" width="601" height="547" frameX="0" frameY="-130" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag left0000" x="1242" y="1129" width="612" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag left0001" x="1871" y="0" width="607" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars sm up0000" x="0" y="2239" width="601" height="545" frameX="0" frameY="-132" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag up0000" x="0" y="1684" width="634" height="555" frameX="-6" frameY="-122" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars sm up0001" x="601" y="2239" width="601" height="545" frameX="0" frameY="-132" frameWidth="640" frameHeight="677" />
+<SubTexture name="avatars endertag up0001" x="603" y="0" width="634" height="566" frameX="-6" frameY="-111" frameWidth="640" frameHeight="677" />
+</TextureAtlas>

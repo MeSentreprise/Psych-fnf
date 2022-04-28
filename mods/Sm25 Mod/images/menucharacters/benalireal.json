@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Dad Idle",
+	"image": "menu_benalireal",
+	"position": [
+		172,
+		130
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

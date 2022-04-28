@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smreal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Sm251006-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't know !"
+		}
+	]
+}

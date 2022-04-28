@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smreal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey sami !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sami",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey saad, did you got that avatar too ?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "smreal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, he's here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sm251006-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey i guess"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sami",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sami",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I also got one"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "endertagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sm251006-portrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You look like me wanna rap with me ?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "endertagi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure"
+		}
+	]
+}

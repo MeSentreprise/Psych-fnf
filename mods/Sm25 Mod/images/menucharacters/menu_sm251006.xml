@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sm251006-menu.png"><SubTexture name="sm251006-menu idle0000" x="0" y="598" width="308" height="578" frameX="-174" frameY="-98" frameWidth="640" frameHeight="677" />
+<SubTexture name="sm251006-menu idle0001" x="617" y="0" width="308" height="587" frameX="-174" frameY="-89" frameWidth="640" frameHeight="677" />
+<SubTexture name="sm251006-menu idle0002" x="0" y="0" width="309" height="598" frameX="-174" frameY="-79" frameWidth="640" frameHeight="677" />
+<SubTexture name="sm251006-menu idle0003" x="309" y="0" width="308" height="588" frameX="-174" frameY="-89" frameWidth="640" frameHeight="677" />
+<SubTexture name="sm251006-menu idle0004" x="925" y="0" width="309" height="579" frameX="-174" frameY="-98" frameWidth="640" frameHeight="677" />
+</TextureAtlas>

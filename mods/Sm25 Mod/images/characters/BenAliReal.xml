@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BenAliReal.png"><SubTexture name="BenAliReal down0000" x="1502" y="0" width="623" height="1140" frameX="-138" frameY="-226" frameWidth="768" frameHeight="1366" />
+<SubTexture name="BenAliReal up0000" x="2125" y="0" width="623" height="1140" frameX="-138" frameY="-226" frameWidth="768" frameHeight="1366" />
+<SubTexture name="BenAliReal right0000" x="988" y="0" width="514" height="1348" frameX="-88" frameY="-18" frameWidth="768" frameHeight="1366" />
+<SubTexture name="BenAliReal left0000" x="463" y="0" width="525" height="1357" frameX="-174" frameY="-9" frameWidth="768" frameHeight="1366" />
+<SubTexture name="BenAliReal idle0000" x="0" y="0" width="463" height="1358" frameX="-164" frameY="-8" frameWidth="768" frameHeight="1366" />
+</TextureAtlas>

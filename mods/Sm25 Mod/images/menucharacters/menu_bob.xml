@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_bob.png"><SubTexture name="menu_bob idle0000" x="0" y="0" width="377" height="294" frameX="0" frameY="0" frameWidth="400" frameHeight="294" />
+</TextureAtlas>

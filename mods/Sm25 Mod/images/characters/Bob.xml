@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bob.png"><SubTexture name="Bob down0000" x="0" y="0" width="362" height="317" frameX="-19" frameY="0" frameWidth="400" frameHeight="317" />
+<SubTexture name="Bob idle0000" x="362" y="0" width="377" height="294" frameX="0" frameY="0" frameWidth="400" frameHeight="294" />
+<SubTexture name="Bob left0000" x="0" y="317" width="365" height="294" frameX="-18" frameY="0" frameWidth="400" frameHeight="294" />
+<SubTexture name="Bob right0000" x="365" y="317" width="365" height="294" frameX="-12" frameY="0" frameWidth="400" frameHeight="294" />
+<SubTexture name="Bob up0000" x="739" y="0" width="292" height="237" frameX="-44" frameY="0" frameWidth="400" frameHeight="237" />
+</TextureAtlas>

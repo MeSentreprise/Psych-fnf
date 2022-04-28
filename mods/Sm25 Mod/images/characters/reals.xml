@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="reals.png"><SubTexture name="reals sm down0000" x="0" y="0" width="985" height="667" frameX="0" frameY="-53" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals sami down0000" x="1970" y="0" width="1206" height="626" frameX="0" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals idle0000" x="985" y="0" width="985" height="643" frameX="0" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals sm left0000" x="0" y="667" width="985" height="643" frameX="0" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals sami left0000" x="1970" y="626" width="1133" height="626" frameX="0" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals sm right0000" x="985" y="667" width="985" height="643" frameX="0" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals sami right0000" x="1970" y="1252" width="945" height="626" frameX="0" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals sm up0000" x="0" y="1310" width="985" height="643" frameX="0" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="reals sami up0000" x="0" y="1953" width="1034" height="626" frameX="0" frameY="-94" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

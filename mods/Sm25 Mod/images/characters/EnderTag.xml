@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EnderTag.png"><SubTexture name="EnderTag idle0000" x="0" y="0" width="305" height="739" frameX="-4" frameY="-12" frameWidth="309" frameHeight="751" />
+<SubTexture name="EnderTag idle0001" x="305" y="0" width="315" height="739" frameX="-11" frameY="-12" frameWidth="328" frameHeight="751" />
+<SubTexture name="EnderTag idle0002" x="620" y="0" width="329" height="739" frameX="-18" frameY="-12" frameWidth="355" frameHeight="751" />
+<SubTexture name="EnderTag left0000" x="949" y="0" width="311" height="739" frameX="-21" frameY="0" frameWidth="344" frameHeight="751" />
+<SubTexture name="EnderTag left0001" x="1260" y="0" width="322" height="739" frameX="-7" frameY="0" frameWidth="339" frameHeight="751" />
+<SubTexture name="EnderTag left0002" x="0" y="739" width="361" height="739" frameX="-6" frameY="0" frameWidth="373" frameHeight="751" />
+<SubTexture name="EnderTag right0000" x="361" y="739" width="311" height="739" frameX="-6" frameY="0" frameWidth="326" frameHeight="751" />
+<SubTexture name="EnderTag right0001" x="672" y="739" width="322" height="739" frameX="-19" frameY="0" frameWidth="351" frameHeight="751" />
+<SubTexture name="EnderTag right0002" x="994" y="739" width="366" height="739" frameX="-5" frameY="0" frameWidth="373" frameHeight="751" />
+<SubTexture name="EnderTag down0000" x="582" y="1478" width="595" height="703" frameX="-8" frameY="0" frameWidth="612" frameHeight="703" />
+<SubTexture name="EnderTag up0000" x="1582" y="0" width="625" height="739" frameX="-5" frameY="0" frameWidth="630" frameHeight="751" />
+<SubTexture name="EnderTag up0001" x="0" y="1478" width="582" height="720" frameX="0" frameY="0" frameWidth="585" frameHeight="720" />
+<SubTexture name="EnderTag down0001" x="1582" y="739" width="480" height="724" frameX="-9" frameY="0" frameWidth="496" frameHeight="724" />
+</TextureAtlas>

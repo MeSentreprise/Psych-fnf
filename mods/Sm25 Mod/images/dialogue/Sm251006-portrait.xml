@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sm251006-portrait.png">
+<SubTexture name="Sm251006-portrait Portrait Enter instance 1000" x="0" y="0" width="308" height="301" frameX="0" frameY="0" frameWidth="308" frameHeight="301" />
+<SubTexture name="Sm251006-portrait Portrait Enter instance 1001" x="308" y="0" width="308" height="301" frameX="0" frameY="0" frameWidth="308" frameHeight="301" />
+<SubTexture name="Sm251006-portrait Portrait Enter instance 1002" x="308" y="0" width="308" height="301" frameX="0" frameY="0" frameWidth="308" frameHeight="301" />
+<SubTexture name="Sm251006-portrait Portrait Enter instance 1003" x="0" y="301" width="308" height="301" frameX="0" frameY="0" frameWidth="308" frameHeight="301" />
+<SubTexture name="Sm251006-portrait Portrait Enter instance 1004" x="0" y="301" width="308" height="301" frameX="0" frameY="0" frameWidth="308" frameHeight="301" />
+<SubTexture name="Sm251006-portrait Portrait Enter instance 1005" x="308" y="301" width="308" height="301" frameX="0" frameY="0" frameWidth="308" frameHeight="301" />
+<SubTexture name="Sm251006-portrait Portrait Enter instance 1006" x="308" y="301" width="308" height="301" frameX="0" frameY="0" frameWidth="308" frameHeight="301" />
+</TextureAtlas>
